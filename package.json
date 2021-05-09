@@ -1,0 +1,22 @@
+{
+  "name": "caesar-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my_caesar_cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaKam/Caesar-Cli.git"
+  },
+  "author": "VictoriaKam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictoriaKam/Caesar-Cli/issues"
+  },
+  "homepage": "https://github.com/VictoriaKam/Caesar-Cli#readme",
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
